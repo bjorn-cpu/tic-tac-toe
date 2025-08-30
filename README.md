@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple Tic Tac Toe game built with Python and PyGame.
+A simple Tic Tac Toe game made with Python and PyGame.
 
 ## How to Play
 
@@ -21,4 +21,4 @@ A simple Tic Tac Toe game built with Python and PyGame.
 - Win and draw detection
 - Easy restart functionality
 
-Enjoy the game!
+Enjoy the game!:)
